@@ -1,0 +1,15 @@
+/Users/cokoprens/Desktop/PatikaDevPratikler/DiziMetotları/bin/Debug/net6.0/DiziMetotları
+/Users/cokoprens/Desktop/PatikaDevPratikler/DiziMetotları/bin/Debug/net6.0/DiziMetotları.deps.json
+/Users/cokoprens/Desktop/PatikaDevPratikler/DiziMetotları/bin/Debug/net6.0/DiziMetotları.runtimeconfig.json
+/Users/cokoprens/Desktop/PatikaDevPratikler/DiziMetotları/bin/Debug/net6.0/DiziMetotları.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/DiziMetotları/bin/Debug/net6.0/DiziMetotları.pdb
+/Users/cokoprens/Desktop/PatikaDevPratikler/DiziMetotları/obj/Debug/net6.0/DiziMetotları.csproj.AssemblyReference.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/DiziMetotları/obj/Debug/net6.0/DiziMetotları.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cokoprens/Desktop/PatikaDevPratikler/DiziMetotları/obj/Debug/net6.0/DiziMetotları.AssemblyInfoInputs.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/DiziMetotları/obj/Debug/net6.0/DiziMetotları.AssemblyInfo.cs
+/Users/cokoprens/Desktop/PatikaDevPratikler/DiziMetotları/obj/Debug/net6.0/DiziMetotları.csproj.CoreCompileInputs.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/DiziMetotları/obj/Debug/net6.0/DiziMetotları.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/DiziMetotları/obj/Debug/net6.0/refint/DiziMetotları.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/DiziMetotları/obj/Debug/net6.0/DiziMetotları.pdb
+/Users/cokoprens/Desktop/PatikaDevPratikler/DiziMetotları/obj/Debug/net6.0/DiziMetotları.genruntimeconfig.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/DiziMetotları/obj/Debug/net6.0/ref/DiziMetotları.dll
